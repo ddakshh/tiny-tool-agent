@@ -1,0 +1,3 @@
+User: bareilly temp
+Agent: bareilly : 40.91c, clear sky
+
